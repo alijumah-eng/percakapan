@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "1",
+    "title": "Salam & perkenalan",
+    "arabic": "التَّعَارُفُ",
+    "goal": "Menyapa dan mengenalkan diri",
+    "icon": "👋",
+    "level": "Pemula",
+    "minutes": 5,
+    "lines": [
+      {
+        "speaker": "Ahmad",
+        "arabic": "السَّلَامُ عَلَيْكُمْ.",
+        "latin": "Assalāmu ‘alaikum.",
+        "meaning": "Semoga keselamatan tercurah kepadamu."
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "وَعَلَيْكُمُ السَّلَامُ.",
+        "latin": "Wa ‘alaikumus-salām.",
+        "meaning": "Semoga keselamatan juga tercurah kepadamu."
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "مَا اسْمُكَ؟",
+        "latin": "Mā ismuka?",
+        "meaning": "Siapa namamu?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "اِسْمِي عَلِيٌّ. وَمَا اسْمُكَ؟",
+        "latin": "Ismī ‘Aliyyun. Wa mā ismuka?",
+        "meaning": "Nama saya Ali. Siapa namamu?"
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "اِسْمِي أَحْمَدُ. مِنْ أَيْنَ أَنْتَ؟",
+        "latin": "Ismī Aḥmadu. Min aina anta?",
+        "meaning": "Nama saya Ahmad. Dari mana asalmu?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "أَنَا مِنْ إِنْدُونِيسِيَا.",
+        "latin": "Anā min Indūnīsiyā.",
+        "meaning": "Saya dari Indonesia."
+      }
+    ],
+    "vocabulary": [
+      {
+        "arabic": "اِسْمٌ",
+        "meaning": "nama"
+      },
+      {
+        "arabic": "مِنْ أَيْنَ",
+        "meaning": "dari mana"
+      },
+      {
+        "arabic": "أَنَا",
+        "meaning": "saya"
+      }
+    ],
+    "note": "Dialog menggunakan sapaan laki-laki tunggal. Untuk perempuan, أَنْتَ menjadi أَنْتِ; akhiran ـكَ menjadi ـكِ. Transliterasi hanya membantu membaca. Pelafalan TTS dapat berbeda dari pembacaan gramatikal tertulis.",
+    "quiz": [
+      {
+        "id": "q1",
+        "prompt": "Apa arti اِسْمٌ?",
+        "options": [
+          "nama",
+          "dari mana",
+          "saya",
+          "perjalanan"
+        ],
+        "answer": 0,
+        "explanation": "اِسْمٌ berarti nama ."
+      },
+      {
+        "id": "q2",
+        "prompt": "Apa arti مِنْ أَيْنَ?",
+        "options": [
+          "saya",
+          "nama",
+          "perjalanan",
+          "dari mana"
+        ],
+        "answer": 3,
+        "explanation": "مِنْ أَيْنَ berarti dari mana ."
+      },
+      {
+        "id": "q3",
+        "prompt": "Apa arti أَنَا?",
+        "options": [
+          "dari mana",
+          "perjalanan",
+          "saya",
+          "nama"
+        ],
+        "answer": 2,
+        "explanation": "أَنَا berarti saya ."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Di kelas",
+    "arabic": "فِي الْفَصْلِ",
+    "goal": "Bertanya dan meminta izin",
+    "icon": "📖",
+    "level": "Pemula",
+    "minutes": 6,
+    "lines": [
+      {
+        "speaker": "Ahmad",
+        "arabic": "صَبَاحُ الْخَيْرِ يَا أُسْتَاذُ.",
+        "latin": "Ṣabāḥul-khairi yā ustādzu.",
+        "meaning": "Selamat pagi, Pak Guru."
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "صَبَاحُ النُّورِ. اِفْتَحِ الْكِتَابَ.",
+        "latin": "Ṣabāḥun-nūri. Iftaḥil-kitāba.",
+        "meaning": "Selamat pagi. Bukalah buku."
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "فِي أَيِّ صَفْحَةٍ؟",
+        "latin": "Fī ayyi ṣafḥatin?",
+        "meaning": "Pada halaman berapa?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "فِي الصَّفْحَةِ الْعَاشِرَةِ.",
+        "latin": "Fiṣ-ṣafḥatil-‘āsyirati.",
+        "meaning": "Pada halaman sepuluh."
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "هَلْ يُمْكِنُ أَنْ أَسْأَلَ؟",
+        "latin": "Hal yumkinu an as’ala?",
+        "meaning": "Bolehkah saya bertanya?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "نَعَمْ، تَفَضَّلْ.",
+        "latin": "Na‘am, tafaḍḍal.",
+        "meaning": "Ya, silakan."
+      }
+    ],
+    "vocabulary": [
+      {
+        "arabic": "كِتَابٌ",
+        "meaning": "buku"
+      },
+      {
+        "arabic": "صَفْحَةٌ",
+        "meaning": "halaman"
+      },
+      {
+        "arabic": "أُسْتَاذٌ",
+        "meaning": "guru laki-laki"
+      }
+    ],
+    "note": "Dialog menggunakan sapaan laki-laki tunggal. Untuk perempuan, أَنْتَ menjadi أَنْتِ; akhiran ـكَ menjadi ـكِ. Transliterasi hanya membantu membaca. Pelafalan TTS dapat berbeda dari pembacaan gramatikal tertulis.",
+    "quiz": [
+      {
+        "id": "q1",
+        "prompt": "Apa arti كِتَابٌ?",
+        "options": [
+          "halaman",
+          "guru laki-laki",
+          "perjalanan",
+          "buku"
+        ],
+        "answer": 3,
+        "explanation": "كِتَابٌ berarti buku ."
+      },
+      {
+        "id": "q2",
+        "prompt": "Apa arti صَفْحَةٌ?",
+        "options": [
+          "buku",
+          "perjalanan",
+          "halaman",
+          "guru laki-laki"
+        ],
+        "answer": 2,
+        "explanation": "صَفْحَةٌ berarti halaman ."
+      },
+      {
+        "id": "q3",
+        "prompt": "Apa arti أُسْتَاذٌ?",
+        "options": [
+          "perjalanan",
+          "guru laki-laki",
+          "buku",
+          "halaman"
+        ],
+        "answer": 1,
+        "explanation": "أُسْتَاذٌ berarti guru laki-laki ."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Keluarga",
+    "arabic": "الْأُسْرَةُ",
+    "goal": "Mengenalkan anggota keluarga",
+    "icon": "🏡",
+    "level": "Pemula",
+    "minutes": 7,
+    "lines": [
+      {
+        "speaker": "Ahmad",
+        "arabic": "مَنْ هٰذَا؟",
+        "latin": "Man hādzā?",
+        "meaning": "Siapa ini?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "هٰذَا أَبِي.",
+        "latin": "Hādzā abī.",
+        "meaning": "Ini ayah saya."
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "وَمَنْ هٰذِهِ؟",
+        "latin": "Wa man hādzihi?",
+        "meaning": "Dan siapa ini?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "هٰذِهِ أُمِّي.",
+        "latin": "Hādzihi ummī.",
+        "meaning": "Ini ibu saya."
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "هَلْ لَكَ أَخٌ؟",
+        "latin": "Hal laka akhun?",
+        "meaning": "Apakah kamu mempunyai saudara laki-laki?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "نَعَمْ، لِي أَخٌ وَأُخْتٌ.",
+        "latin": "Na‘am, lī akhun wa ukhtun.",
+        "meaning": "Ya, saya mempunyai seorang saudara laki-laki dan seorang saudara perempuan."
+      }
+    ],
+    "vocabulary": [
+      {
+        "arabic": "أَبٌ",
+        "meaning": "ayah"
+      },
+      {
+        "arabic": "أُمٌّ",
+        "meaning": "ibu"
+      },
+      {
+        "arabic": "أُخْتٌ",
+        "meaning": "saudara perempuan"
+      }
+    ],
+    "note": "Dialog menggunakan sapaan laki-laki tunggal. Untuk perempuan, أَنْتَ menjadi أَنْتِ; akhiran ـكَ menjadi ـكِ. Transliterasi hanya membantu membaca. Pelafalan TTS dapat berbeda dari pembacaan gramatikal tertulis.",
+    "quiz": [
+      {
+        "id": "q1",
+        "prompt": "Apa arti أَبٌ?",
+        "options": [
+          "saudara perempuan",
+          "perjalanan",
+          "ayah",
+          "ibu"
+        ],
+        "answer": 2,
+        "explanation": "أَبٌ berarti ayah ."
+      },
+      {
+        "id": "q2",
+        "prompt": "Apa arti أُمٌّ?",
+        "options": [
+          "perjalanan",
+          "ibu",
+          "saudara perempuan",
+          "ayah"
+        ],
+        "answer": 1,
+        "explanation": "أُمٌّ berarti ibu ."
+      },
+      {
+        "id": "q3",
+        "prompt": "Apa arti أُخْتٌ?",
+        "options": [
+          "saudara perempuan",
+          "ayah",
+          "ibu",
+          "perjalanan"
+        ],
+        "answer": 0,
+        "explanation": "أُخْتٌ berarti saudara perempuan ."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Rutinitas harian",
+    "arabic": "الْحَيَاةُ الْيَوْمِيَّةُ",
+    "goal": "Menceritakan kegiatan sehari-hari",
+    "icon": "☀️",
+    "level": "Pemula",
+    "minutes": 5,
+    "lines": [
+      {
+        "speaker": "Ahmad",
+        "arabic": "مَتَى تَسْتَيْقِظُ؟",
+        "latin": "Matā tastaiqiẓu?",
+        "meaning": "Kapan kamu bangun?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "أَسْتَيْقِظُ فِي السَّاعَةِ الْخَامِسَةِ.",
+        "latin": "Astaiqiẓu fis-sā‘atil-khāmisati.",
+        "meaning": "Saya bangun pukul lima."
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "مَاذَا تَفْعَلُ بَعْدَ ذٰلِكَ؟",
+        "latin": "Mādzā taf‘alu ba‘da dzālika?",
+        "meaning": "Apa yang kamu lakukan setelah itu?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "أُصَلِّي ثُمَّ أَتَنَاوَلُ الْفَطُورَ.",
+        "latin": "Uṣallī tsumma atanāwalul-faṭūra.",
+        "meaning": "Saya salat lalu sarapan."
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "مَتَى تَذْهَبُ إِلَى الْمَدْرَسَةِ؟",
+        "latin": "Matā tadzhabu ilal-madrasati?",
+        "meaning": "Kapan kamu pergi ke sekolah?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "أَذْهَبُ فِي السَّاعَةِ السَّابِعَةِ.",
+        "latin": "Adzhabu fis-sā‘atis-sābi‘ati.",
+        "meaning": "Saya pergi pukul tujuh."
+      }
+    ],
+    "vocabulary": [
+      {
+        "arabic": "أَسْتَيْقِظُ",
+        "meaning": "saya bangun"
+      },
+      {
+        "arabic": "الْفَطُورُ",
+        "meaning": "sarapan"
+      },
+      {
+        "arabic": "ثُمَّ",
+        "meaning": "kemudian"
+      }
+    ],
+    "note": "Dialog menggunakan sapaan laki-laki tunggal. Untuk perempuan, أَنْتَ menjadi أَنْتِ; akhiran ـكَ menjadi ـكِ. Transliterasi hanya membantu membaca. Pelafalan TTS dapat berbeda dari pembacaan gramatikal tertulis.",
+    "quiz": [
+      {
+        "id": "q1",
+        "prompt": "Apa arti أَسْتَيْقِظُ?",
+        "options": [
+          "perjalanan",
+          "saya bangun",
+          "sarapan",
+          "kemudian"
+        ],
+        "answer": 1,
+        "explanation": "أَسْتَيْقِظُ berarti saya bangun ."
+      },
+      {
+        "id": "q2",
+        "prompt": "Apa arti الْفَطُورُ?",
+        "options": [
+          "sarapan",
+          "kemudian",
+          "saya bangun",
+          "perjalanan"
+        ],
+        "answer": 0,
+        "explanation": "الْفَطُورُ berarti sarapan ."
+      },
+      {
+        "id": "q3",
+        "prompt": "Apa arti ثُمَّ?",
+        "options": [
+          "saya bangun",
+          "sarapan",
+          "perjalanan",
+          "kemudian"
+        ],
+        "answer": 3,
+        "explanation": "ثُمَّ berarti kemudian ."
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Waktu & jadwal",
+    "arabic": "الْوَقْتُ",
+    "goal": "Menanyakan jam dan jadwal",
+    "icon": "🕘",
+    "level": "Pemula",
+    "minutes": 6,
+    "lines": [
+      {
+        "speaker": "Ahmad",
+        "arabic": "كَمِ السَّاعَةُ الْآنَ؟",
+        "latin": "Kamis-sā‘atul-āna?",
+        "meaning": "Sekarang pukul berapa?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "السَّاعَةُ الثَّامِنَةُ.",
+        "latin": "As-sā‘atuts-tsāminatu.",
+        "meaning": "Pukul delapan."
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "مَتَى يَبْدَأُ الدَّرْسُ؟",
+        "latin": "Matā yabda’ud-darsu?",
+        "meaning": "Kapan pelajaran dimulai?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "يَبْدَأُ فِي السَّاعَةِ التَّاسِعَةِ.",
+        "latin": "Yabda’u fis-sā‘atit-tāsi‘ati.",
+        "meaning": "Dimulai pukul sembilan."
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "هَلْ عِنْدَنَا وَقْتٌ؟",
+        "latin": "Hal ‘indanā waqtun?",
+        "meaning": "Apakah kita mempunyai waktu?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "نَعَمْ، عِنْدَنَا سَاعَةٌ.",
+        "latin": "Na‘am, ‘indanā sā‘atun.",
+        "meaning": "Ya, kita mempunyai satu jam."
+      }
+    ],
+    "vocabulary": [
+      {
+        "arabic": "الْآنَ",
+        "meaning": "sekarang"
+      },
+      {
+        "arabic": "سَاعَةٌ",
+        "meaning": "jam"
+      },
+      {
+        "arabic": "دَرْسٌ",
+        "meaning": "pelajaran"
+      }
+    ],
+    "note": "Dialog menggunakan sapaan laki-laki tunggal. Untuk perempuan, أَنْتَ menjadi أَنْتِ; akhiran ـكَ menjadi ـكِ. Transliterasi hanya membantu membaca. Pelafalan TTS dapat berbeda dari pembacaan gramatikal tertulis.",
+    "quiz": [
+      {
+        "id": "q1",
+        "prompt": "Apa arti الْآنَ?",
+        "options": [
+          "sekarang",
+          "jam",
+          "pelajaran",
+          "perjalanan"
+        ],
+        "answer": 0,
+        "explanation": "الْآنَ berarti sekarang ."
+      },
+      {
+        "id": "q2",
+        "prompt": "Apa arti سَاعَةٌ?",
+        "options": [
+          "pelajaran",
+          "sekarang",
+          "perjalanan",
+          "jam"
+        ],
+        "answer": 3,
+        "explanation": "سَاعَةٌ berarti jam ."
+      },
+      {
+        "id": "q3",
+        "prompt": "Apa arti دَرْسٌ?",
+        "options": [
+          "jam",
+          "perjalanan",
+          "pelajaran",
+          "sekarang"
+        ],
+        "answer": 2,
+        "explanation": "دَرْسٌ berarti pelajaran ."
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Di kantin",
+    "arabic": "فِي الْمَقْصَفِ",
+    "goal": "Memesan makanan dan minuman",
+    "icon": "☕",
+    "level": "Pemula",
+    "minutes": 7,
+    "lines": [
+      {
+        "speaker": "Ahmad",
+        "arabic": "مَاذَا تُرِيدُ؟",
+        "latin": "Mādzā turīdu?",
+        "meaning": "Apa yang kamu inginkan?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "أُرِيدُ أَرُزًّا وَدَجَاجًا.",
+        "latin": "Urīdu aruzzan wa dajājan.",
+        "meaning": "Saya ingin nasi dan ayam."
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "وَمَاذَا تُرِيدُ أَنْ تَشْرَبَ؟",
+        "latin": "Wa mādzā turīdu an tasyraba?",
+        "meaning": "Dan kamu ingin minum apa?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "أُرِيدُ مَاءً، مِنْ فَضْلِكَ.",
+        "latin": "Urīdu mā’an, min faḍlika.",
+        "meaning": "Saya ingin air, tolong."
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "تَفَضَّلْ.",
+        "latin": "Tafaḍḍal.",
+        "meaning": "Silakan."
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "شُكْرًا جَزِيلًا.",
+        "latin": "Syukran jazīlan.",
+        "meaning": "Terima kasih banyak."
+      }
+    ],
+    "vocabulary": [
+      {
+        "arabic": "مَاءٌ",
+        "meaning": "air"
+      },
+      {
+        "arabic": "دَجَاجٌ",
+        "meaning": "ayam"
+      },
+      {
+        "arabic": "أُرِيدُ",
+        "meaning": "saya ingin"
+      }
+    ],
+    "note": "Dialog menggunakan sapaan laki-laki tunggal. Untuk perempuan, أَنْتَ menjadi أَنْتِ; akhiran ـكَ menjadi ـكِ. Transliterasi hanya membantu membaca. Pelafalan TTS dapat berbeda dari pembacaan gramatikal tertulis.",
+    "quiz": [
+      {
+        "id": "q1",
+        "prompt": "Apa arti مَاءٌ?",
+        "options": [
+          "ayam",
+          "saya ingin",
+          "perjalanan",
+          "air"
+        ],
+        "answer": 3,
+        "explanation": "مَاءٌ berarti air ."
+      },
+      {
+        "id": "q2",
+        "prompt": "Apa arti دَجَاجٌ?",
+        "options": [
+          "air",
+          "perjalanan",
+          "ayam",
+          "saya ingin"
+        ],
+        "answer": 2,
+        "explanation": "دَجَاجٌ berarti ayam ."
+      },
+      {
+        "id": "q3",
+        "prompt": "Apa arti أُرِيدُ?",
+        "options": [
+          "perjalanan",
+          "saya ingin",
+          "air",
+          "ayam"
+        ],
+        "answer": 1,
+        "explanation": "أُرِيدُ berarti saya ingin ."
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Di pasar",
+    "arabic": "فِي السُّوقِ",
+    "goal": "Menanyakan harga dan jumlah",
+    "icon": "🛍️",
+    "level": "Pemula",
+    "minutes": 5,
+    "lines": [
+      {
+        "speaker": "Ahmad",
+        "arabic": "بِكَمْ هٰذَا الْكِتَابُ؟",
+        "latin": "Bikam hādzal-kitābu?",
+        "meaning": "Berapa harga buku ini?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "بِعَشَرَةِ رِيَالَاتٍ.",
+        "latin": "Bi‘asyarati riyālātin.",
+        "meaning": "Sepuluh riyal."
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "هَلْ عِنْدَكَ قَلَمٌ؟",
+        "latin": "Hal ‘indaka qalamun?",
+        "meaning": "Apakah Anda mempunyai pena?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "نَعَمْ، هٰذَا قَلَمٌ جَيِّدٌ.",
+        "latin": "Na‘am, hādzā qalamun jayyidun.",
+        "meaning": "Ya, ini pena yang bagus."
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "أُرِيدُ قَلَمَيْنِ.",
+        "latin": "Urīdu qalamaini.",
+        "meaning": "Saya ingin dua pena."
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "تَفَضَّلْ، هٰذَانِ قَلَمَانِ.",
+        "latin": "Tafaḍḍal, hādzāni qalamāni.",
+        "meaning": "Silakan, ini dua pena."
+      }
+    ],
+    "vocabulary": [
+      {
+        "arabic": "بِكَمْ",
+        "meaning": "berapa harganya"
+      },
+      {
+        "arabic": "قَلَمٌ",
+        "meaning": "pena"
+      },
+      {
+        "arabic": "جَيِّدٌ",
+        "meaning": "bagus"
+      }
+    ],
+    "note": "Dialog menggunakan sapaan laki-laki tunggal. Untuk perempuan, أَنْتَ menjadi أَنْتِ; akhiran ـكَ menjadi ـكِ. Transliterasi hanya membantu membaca. Pelafalan TTS dapat berbeda dari pembacaan gramatikal tertulis.",
+    "quiz": [
+      {
+        "id": "q1",
+        "prompt": "Apa arti بِكَمْ?",
+        "options": [
+          "bagus",
+          "perjalanan",
+          "berapa harganya",
+          "pena"
+        ],
+        "answer": 2,
+        "explanation": "بِكَمْ berarti berapa harganya ."
+      },
+      {
+        "id": "q2",
+        "prompt": "Apa arti قَلَمٌ?",
+        "options": [
+          "perjalanan",
+          "pena",
+          "bagus",
+          "berapa harganya"
+        ],
+        "answer": 1,
+        "explanation": "قَلَمٌ berarti pena ."
+      },
+      {
+        "id": "q3",
+        "prompt": "Apa arti جَيِّدٌ?",
+        "options": [
+          "bagus",
+          "berapa harganya",
+          "pena",
+          "perjalanan"
+        ],
+        "answer": 0,
+        "explanation": "جَيِّدٌ berarti bagus ."
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Tempat tinggal",
+    "arabic": "السَّكَنُ",
+    "goal": "Menjelaskan rumah dan alamat",
+    "icon": "🚪",
+    "level": "Pemula",
+    "minutes": 6,
+    "lines": [
+      {
+        "speaker": "Ahmad",
+        "arabic": "أَيْنَ تَسْكُنُ؟",
+        "latin": "Aina taskunu?",
+        "meaning": "Di mana kamu tinggal?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "أَسْكُنُ قَرِيبًا مِنَ الْمَدْرَسَةِ.",
+        "latin": "Askunu qarīban minal-madrasati.",
+        "meaning": "Saya tinggal dekat sekolah."
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "هَلْ بَيْتُكَ كَبِيرٌ؟",
+        "latin": "Hal baituka kabīrun?",
+        "meaning": "Apakah rumahmu besar?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "لَا، بَيْتِي صَغِيرٌ.",
+        "latin": "Lā, baitī ṣaghīrun.",
+        "meaning": "Tidak, rumah saya kecil."
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "كَمْ غُرْفَةً فِي بَيْتِكَ؟",
+        "latin": "Kam ghurfatan fī baitika?",
+        "meaning": "Ada berapa kamar di rumahmu?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "فِي بَيْتِي ثَلَاثُ غُرَفٍ.",
+        "latin": "Fī baitī tsalātsu ghurafin.",
+        "meaning": "Di rumah saya ada tiga kamar."
+      }
+    ],
+    "vocabulary": [
+      {
+        "arabic": "بَيْتٌ",
+        "meaning": "rumah"
+      },
+      {
+        "arabic": "غُرْفَةٌ",
+        "meaning": "kamar"
+      },
+      {
+        "arabic": "قَرِيبٌ",
+        "meaning": "dekat"
+      }
+    ],
+    "note": "Dialog menggunakan sapaan laki-laki tunggal. Untuk perempuan, أَنْتَ menjadi أَنْتِ; akhiran ـكَ menjadi ـكِ. Transliterasi hanya membantu membaca. Pelafalan TTS dapat berbeda dari pembacaan gramatikal tertulis.",
+    "quiz": [
+      {
+        "id": "q1",
+        "prompt": "Apa arti بَيْتٌ?",
+        "options": [
+          "perjalanan",
+          "rumah",
+          "kamar",
+          "dekat"
+        ],
+        "answer": 1,
+        "explanation": "بَيْتٌ berarti rumah ."
+      },
+      {
+        "id": "q2",
+        "prompt": "Apa arti غُرْفَةٌ?",
+        "options": [
+          "kamar",
+          "dekat",
+          "rumah",
+          "perjalanan"
+        ],
+        "answer": 0,
+        "explanation": "غُرْفَةٌ berarti kamar ."
+      },
+      {
+        "id": "q3",
+        "prompt": "Apa arti قَرِيبٌ?",
+        "options": [
+          "rumah",
+          "kamar",
+          "perjalanan",
+          "dekat"
+        ],
+        "answer": 3,
+        "explanation": "قَرِيبٌ berarti dekat ."
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Menanyakan arah",
+    "arabic": "السُّؤَالُ عَنِ الطَّرِيقِ",
+    "goal": "Menentukan lokasi dan tujuan",
+    "icon": "🧭",
+    "level": "Pemula",
+    "minutes": 7,
+    "lines": [
+      {
+        "speaker": "Ahmad",
+        "arabic": "عَفْوًا، أَيْنَ الْمَسْجِدُ؟",
+        "latin": "‘Afwan, ainal-masjidu?",
+        "meaning": "Permisi, di mana masjid?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "الْمَسْجِدُ قَرِيبٌ مِنْ هُنَا.",
+        "latin": "Al-masjidu qarībun min hunā.",
+        "meaning": "Masjid dekat dari sini."
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "كَيْفَ أَذْهَبُ إِلَيْهِ؟",
+        "latin": "Kaifa adzhabu ilaihi?",
+        "meaning": "Bagaimana saya pergi ke sana?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "اِذْهَبْ مُسْتَقِيمًا ثُمَّ اِنْعَطِفْ يَمِينًا.",
+        "latin": "Idzhab mustaqīman tsumma in‘aṭif yamīnan.",
+        "meaning": "Jalan lurus lalu belok kanan."
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "هَلْ هُوَ بِجَانِبِ الْمَدْرَسَةِ؟",
+        "latin": "Hal huwa bijānibil-madrasati?",
+        "meaning": "Apakah letaknya di samping sekolah?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "نَعَمْ، هُوَ بِجَانِبِهَا.",
+        "latin": "Na‘am, huwa bijānibihā.",
+        "meaning": "Ya, letaknya di sampingnya."
+      }
+    ],
+    "vocabulary": [
+      {
+        "arabic": "يَمِينًا",
+        "meaning": "ke kanan"
+      },
+      {
+        "arabic": "مُسْتَقِيمًا",
+        "meaning": "lurus"
+      },
+      {
+        "arabic": "مَسْجِدٌ",
+        "meaning": "masjid"
+      }
+    ],
+    "note": "Dialog menggunakan sapaan laki-laki tunggal. Untuk perempuan, أَنْتَ menjadi أَنْتِ; akhiran ـكَ menjadi ـكِ. Transliterasi hanya membantu membaca. Pelafalan TTS dapat berbeda dari pembacaan gramatikal tertulis.",
+    "quiz": [
+      {
+        "id": "q1",
+        "prompt": "Apa arti يَمِينًا?",
+        "options": [
+          "ke kanan",
+          "lurus",
+          "masjid",
+          "perjalanan"
+        ],
+        "answer": 0,
+        "explanation": "يَمِينًا berarti ke kanan ."
+      },
+      {
+        "id": "q2",
+        "prompt": "Apa arti مُسْتَقِيمًا?",
+        "options": [
+          "masjid",
+          "ke kanan",
+          "perjalanan",
+          "lurus"
+        ],
+        "answer": 3,
+        "explanation": "مُسْتَقِيمًا berarti lurus ."
+      },
+      {
+        "id": "q3",
+        "prompt": "Apa arti مَسْجِدٌ?",
+        "options": [
+          "lurus",
+          "perjalanan",
+          "masjid",
+          "ke kanan"
+        ],
+        "answer": 2,
+        "explanation": "مَسْجِدٌ berarti masjid ."
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Hobi & kesukaan",
+    "arabic": "الْهِوَايَاتُ",
+    "goal": "Menyampaikan minat dan kesukaan",
+    "icon": "⚽",
+    "level": "Pemula",
+    "minutes": 5,
+    "lines": [
+      {
+        "speaker": "Ahmad",
+        "arabic": "مَا هِوَايَتُكَ؟",
+        "latin": "Mā hiwāyatuka?",
+        "meaning": "Apa hobimu?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "هِوَايَتِي الْقِرَاءَةُ.",
+        "latin": "Hiwāyatiyal-qirā’atu.",
+        "meaning": "Hobi saya membaca."
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "مَاذَا تَقْرَأُ؟",
+        "latin": "Mādzā taqra’u?",
+        "meaning": "Apa yang kamu baca?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "أَقْرَأُ الْقِصَصَ الْقَصِيرَةَ.",
+        "latin": "Aqra’ul-qiṣaṣal-qaṣīrata.",
+        "meaning": "Saya membaca cerita pendek."
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "هَلْ تُحِبُّ الرِّيَاضَةَ؟",
+        "latin": "Hal tuḥibbur-riyāḍata?",
+        "meaning": "Apakah kamu menyukai olahraga?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "نَعَمْ، أُحِبُّ كُرَةَ الْقَدَمِ.",
+        "latin": "Na‘am, uḥibbu kuratal-qadami.",
+        "meaning": "Ya, saya menyukai sepak bola."
+      }
+    ],
+    "vocabulary": [
+      {
+        "arabic": "هِوَايَةٌ",
+        "meaning": "hobi"
+      },
+      {
+        "arabic": "قِرَاءَةٌ",
+        "meaning": "membaca"
+      },
+      {
+        "arabic": "أُحِبُّ",
+        "meaning": "saya menyukai"
+      }
+    ],
+    "note": "Dialog menggunakan sapaan laki-laki tunggal. Untuk perempuan, أَنْتَ menjadi أَنْتِ; akhiran ـكَ menjadi ـكِ. Transliterasi hanya membantu membaca. Pelafalan TTS dapat berbeda dari pembacaan gramatikal tertulis.",
+    "quiz": [
+      {
+        "id": "q1",
+        "prompt": "Apa arti هِوَايَةٌ?",
+        "options": [
+          "membaca",
+          "saya menyukai",
+          "perjalanan",
+          "hobi"
+        ],
+        "answer": 3,
+        "explanation": "هِوَايَةٌ berarti hobi ."
+      },
+      {
+        "id": "q2",
+        "prompt": "Apa arti قِرَاءَةٌ?",
+        "options": [
+          "hobi",
+          "perjalanan",
+          "membaca",
+          "saya menyukai"
+        ],
+        "answer": 2,
+        "explanation": "قِرَاءَةٌ berarti membaca ."
+      },
+      {
+        "id": "q3",
+        "prompt": "Apa arti أُحِبُّ?",
+        "options": [
+          "perjalanan",
+          "saya menyukai",
+          "hobi",
+          "membaca"
+        ],
+        "answer": 1,
+        "explanation": "أُحِبُّ berarti saya menyukai ."
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Kesehatan",
+    "arabic": "الصِّحَّةُ",
+    "goal": "Menyampaikan keluhan sederhana",
+    "icon": "🩺",
+    "level": "Pemula",
+    "minutes": 6,
+    "lines": [
+      {
+        "speaker": "Ahmad",
+        "arabic": "كَيْفَ تَشْعُرُ الْيَوْمَ؟",
+        "latin": "Kaifa tasy‘urul-yauma?",
+        "meaning": "Bagaimana perasaanmu hari ini?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "أَشْعُرُ بِالتَّعَبِ.",
+        "latin": "Asy‘uru bit-ta‘abi.",
+        "meaning": "Saya merasa lelah."
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "هَلْ عِنْدَكَ صُدَاعٌ؟",
+        "latin": "Hal ‘indaka ṣudā‘un?",
+        "meaning": "Apakah kamu sakit kepala?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "نَعَمْ، عِنْدِي صُدَاعٌ.",
+        "latin": "Na‘am, ‘indī ṣudā‘un.",
+        "meaning": "Ya, saya sakit kepala."
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "هَلْ تُرِيدُ أَنْ تَذْهَبَ إِلَى الطَّبِيبِ؟",
+        "latin": "Hal turīdu an tadzhaba ilaṭ-ṭabībi?",
+        "meaning": "Apakah kamu ingin pergi ke dokter?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "نَعَمْ، مِنْ فَضْلِكَ.",
+        "latin": "Na‘am, min faḍlika.",
+        "meaning": "Ya, tolong."
+      }
+    ],
+    "vocabulary": [
+      {
+        "arabic": "صُدَاعٌ",
+        "meaning": "sakit kepala"
+      },
+      {
+        "arabic": "طَبِيبٌ",
+        "meaning": "dokter"
+      },
+      {
+        "arabic": "تَعَبٌ",
+        "meaning": "kelelahan"
+      }
+    ],
+    "note": "Dialog menggunakan sapaan laki-laki tunggal. Untuk perempuan, أَنْتَ menjadi أَنْتِ; akhiran ـكَ menjadi ـكِ. Transliterasi hanya membantu membaca. Pelafalan TTS dapat berbeda dari pembacaan gramatikal tertulis.",
+    "quiz": [
+      {
+        "id": "q1",
+        "prompt": "Apa arti صُدَاعٌ?",
+        "options": [
+          "kelelahan",
+          "perjalanan",
+          "sakit kepala",
+          "dokter"
+        ],
+        "answer": 2,
+        "explanation": "صُدَاعٌ berarti sakit kepala ."
+      },
+      {
+        "id": "q2",
+        "prompt": "Apa arti طَبِيبٌ?",
+        "options": [
+          "perjalanan",
+          "dokter",
+          "kelelahan",
+          "sakit kepala"
+        ],
+        "answer": 1,
+        "explanation": "طَبِيبٌ berarti dokter ."
+      },
+      {
+        "id": "q3",
+        "prompt": "Apa arti تَعَبٌ?",
+        "options": [
+          "kelelahan",
+          "sakit kepala",
+          "dokter",
+          "perjalanan"
+        ],
+        "answer": 0,
+        "explanation": "تَعَبٌ berarti kelelahan ."
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Perjalanan",
+    "arabic": "السَّفَرُ",
+    "goal": "Membeli tiket perjalanan",
+    "icon": "🚌",
+    "level": "Pemula",
+    "minutes": 7,
+    "lines": [
+      {
+        "speaker": "Ahmad",
+        "arabic": "إِلَى أَيْنَ تُسَافِرُ؟",
+        "latin": "Ilā aina tusāfiru?",
+        "meaning": "Ke mana kamu bepergian?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "أُسَافِرُ إِلَى جَاكَرْتَا.",
+        "latin": "Usāfiru ilā Jākartā.",
+        "meaning": "Saya bepergian ke Jakarta."
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "هَلْ تُرِيدُ تَذْكِرَةً وَاحِدَةً؟",
+        "latin": "Hal turīdu tadzkiratan wāḥidatan?",
+        "meaning": "Apakah kamu ingin satu tiket?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "نَعَمْ، تَذْكِرَةً وَاحِدَةً.",
+        "latin": "Na‘am, tadzkiratan wāḥidatan.",
+        "meaning": "Ya, satu tiket."
+      },
+      {
+        "speaker": "Ahmad",
+        "arabic": "مَتَى تَنْطَلِقُ الْحَافِلَةُ؟",
+        "latin": "Matā tanṭaliqul-ḥāfilatu?",
+        "meaning": "Kapan bus berangkat?"
+      },
+      {
+        "speaker": "Ali",
+        "arabic": "تَنْطَلِقُ فِي السَّاعَةِ الْعَاشِرَةِ.",
+        "latin": "Tanṭaliqu fis-sā‘atil-‘āsyirati.",
+        "meaning": "Berangkat pukul sepuluh."
+      }
+    ],
+    "vocabulary": [
+      {
+        "arabic": "تَذْكِرَةٌ",
+        "meaning": "tiket"
+      },
+      {
+        "arabic": "حَافِلَةٌ",
+        "meaning": "bus"
+      },
+      {
+        "arabic": "أُسَافِرُ",
+        "meaning": "saya bepergian"
+      }
+    ],
+    "note": "Dialog menggunakan sapaan laki-laki tunggal. Untuk perempuan, أَنْتَ menjadi أَنْتِ; akhiran ـكَ menjadi ـكِ. Transliterasi hanya membantu membaca. Pelafalan TTS dapat berbeda dari pembacaan gramatikal tertulis.",
+    "quiz": [
+      {
+        "id": "q1",
+        "prompt": "Apa arti تَذْكِرَةٌ?",
+        "options": [
+          "perjalanan",
+          "tiket",
+          "bus",
+          "saya bepergian"
+        ],
+        "answer": 1,
+        "explanation": "تَذْكِرَةٌ berarti tiket ."
+      },
+      {
+        "id": "q2",
+        "prompt": "Apa arti حَافِلَةٌ?",
+        "options": [
+          "bus",
+          "saya bepergian",
+          "tiket",
+          "perjalanan"
+        ],
+        "answer": 0,
+        "explanation": "حَافِلَةٌ berarti bus ."
+      },
+      {
+        "id": "q3",
+        "prompt": "Apa arti أُسَافِرُ?",
+        "options": [
+          "tiket",
+          "bus",
+          "perjalanan",
+          "saya bepergian"
+        ],
+        "answer": 3,
+        "explanation": "أُسَافِرُ berarti saya bepergian ."
+      }
+    ]
+  }
+]
